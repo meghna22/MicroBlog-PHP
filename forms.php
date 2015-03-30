@@ -1,7 +1,4 @@
 <?php
-
-
-
 function getMessages()
 {
 	// Connect to SQL db
@@ -10,7 +7,6 @@ function getMessages()
 	// return string with results
 	
 }
-
 function landingForm()
 				  {
 						return ' <div class="m"> <form name="form" method="post" action="index.php">
@@ -21,9 +17,6 @@ function landingForm()
 						<input type="submit" name="btnsignup" id="btnsignup" value="Sign Up" />
 						</form> </div>' ; 
 				  }
-
-
-
 				
 function loginform()
 {
@@ -35,8 +28,6 @@ function loginform()
 						</br>
 						<input type="submit" name="btnSubmit" id="btnSubmit" value="Log in" />   
 					</form>';
-		
-	
 }
 
 function logoutform()
@@ -57,5 +48,4 @@ function logoutform()
             </form>';
 			
    }
-   
-   ?>
+?>
