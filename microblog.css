@@ -1,0 +1,80 @@
+@charset "UTF-8";
+body{
+	background-color:#E7EBDA;
+}
+
+.l{
+	background-color:#D47F55;	
+	color:#2A1F00;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	list-style:none;
+	width:80%;
+	
+}
+.mk{
+	color:#F00;
+	list-style:inside;
+}
+
+.m{
+	/*float:left;
+	margin-left:10%;
+	display:inline;
+	float:left; */
+}
+label{
+	color:#D45F00;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+#btnsup{
+	 
+	 width:7%;
+	 height:5%;
+	 border:groove;
+}
+#btnlogin{
+	
+	width:7%;
+	 height:5%;
+	 border:groove;
+	 padding:0.5rem;
+	
+}
+#btnsignup{
+	
+	 width:7%;
+	 height:5%;
+	 border:groove;
+	 padding:0.5rem;
+		 
+}
+#btnSubmit{
+	 width:7%;
+	 height:5%;
+	 border:groove;
+}
+#btnlogout{
+	
+	 width:7%;
+	 height:5%;
+	 border:groove;
+}
+#btnpost{
+	 width:7%;
+	 height:5%;
+	 border:groove;
+}
+#message{
+	 width:80%;
+	 height:15%;
+}
+#header{
+	display:inline;
+	width:50%;
+
+}
+#btncancel{
+	 width:7%;
+	 height:5%;
+	 border:groove;
+} 
